@@ -36,8 +36,8 @@ tags: ["Tutorials", "Qwen Code", "User Examples", "Skills", "marketing"]
 ### 你需要准备什么？
 
 - 安装 Qwen Code CLI：[Qwen Code 概览 \| Qwen Code Docs](https://qwenlm.github.io/qwen-code-docs/zh/users/overview/)
-- 安装百炼 CLI：[阿里云百炼 CLI（Bailian CLI）\| 一行指令调用阿里云百炼全模态 AI 能力](https://bailian.console.aliyun.com/cli?source_channel=cn-beijing-cli&&utm_content=se_1023346373)
-- 一个阿里云百炼 API Key（[百炼控制台](https://bailian.console.aliyun.com) 申请）
+- 安装百炼 CLI：[阿里云百炼 CLI（Bailian CLI）\| 一行指令调用阿里云百炼全模态 AI 能力](https://bailian.console.aliyun.com/cli?source_channel=cli_github&)
+- 一个阿里云百炼 API Key（[百炼控制台](https://bailian.console.aliyun.com/cn-beijing/?source_channel=key_github&tab=app#/api-key) 申请）
 
 准备好了？我们开始。
 
