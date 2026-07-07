@@ -2,11 +2,6 @@ name: Article Proposal / 文章投稿
 description: Propose a new article for the Model Studio AI Blog / 向 Model Studio AI Blog 投稿新文章
 labels: ["article-proposal"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        感谢你投稿文章！请填写以下内容，我们会一起讨论文章的角度。
-        Thanks for proposing an article! Please fill out the sections below. We'll review the proposal and discuss the angle together.
   - type: textarea
     id: overview
     attributes:
@@ -51,17 +46,7 @@ body:
     id: content
     attributes:
       label: Full Article Content / 完整正文
-      description: 粘贴完整的文章内容（Markdown 格式）。标题、概述、作者已在上方填写，无需在 frontmatter 中重复。date 会自动使用提交时间。 / Paste the complete article text here (Markdown format). Title, overview, and author are already filled above — no need to repeat them in frontmatter. Date will use the submission time automatically.
-      value: |
-        ---
-        title: ""
-        date: ""
-        description: ""
-        author: ""
-        tags: []
-        ---
-
-        # Full Article / 完整正文
+      description: 粘贴完整的文章内容（Markdown 格式）。 / Paste the complete article text here (Markdown format).
 
     validations:
       required: true
